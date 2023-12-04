@@ -18,8 +18,8 @@
 
 ## Links
 
-- Solution URL: https://github.com/Antho137/basketball_scoreboard
-- Live Site URL: https://antho137.github.io/basketball_scoreboard/
+- Solution URL: https://github.com/Antho137/basketball-scoreboard
+- Live Site URL: https://antho137.github.io/basketball-scoreboard/
 
 ## Author
 
